@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  font-family:'Kodchasan', sans-serif;
+  margin: 0;
+  background-color: #0F3D3E;
+  color: #E2DCC8;
+}
+
+.heading-div{
+  padding: 10px;
+}
+
+h1{
+  font-family:'Days One', sans-serif;
+  font-weight: bold;
+  font-size: 6rem;
+
+}
+
+.dice-p{
+  font-size: 2rem;
+}
+
+img{
+  width: 75%;
+}
+
+.dice-div{
+  display: inline-block;
+}
+
+
+footer{
+  padding: 50px;
+}
+
+.copyright-p{
+  color: #F1F1F1;
+}
